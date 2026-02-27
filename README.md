@@ -4,10 +4,7 @@
 
 📊 Predicting Adolescent Depression Using Classical ML, TabPFN & Stacked Ensembles
 
-Authors:
 Sherwin D’Souza
-Monil Patel
-Christom Joseph
 Department of Mathematics & Statistics
 University of Guelph
 
